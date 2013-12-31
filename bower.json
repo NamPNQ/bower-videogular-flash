@@ -1,0 +1,19 @@
+{
+  "name": "bower-videogular-flash",
+  "version": "1.0.0",
+  "authors": [
+    "NamPNQ <nampnq@gmail.com>"
+  ],
+  "description": "Videogular flash plugin",
+  "main": "flash.js",
+  "keywords": [
+    "videogular",
+    "videogular-plugin",
+    "videogular-flash"
+  ],
+  "dependencies": {
+    "videogular": "latest"
+  },
+  "license": "MIT",
+  "homepage": "http://nampnq.vietnamcode.com"
+}
