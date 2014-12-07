@@ -1,6 +1,6 @@
 {
   "name": "bower-videogular-flash",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "authors": [
     "NamPNQ <nampnq@gmail.com>"
   ],
@@ -15,5 +15,5 @@
     "videogular": "latest"
   },
   "license": "MIT",
-  "homepage": "http://nampnq.vietnamcode.com"
+  "homepage": "http://nampnq.vietnamcode.info"
 }
